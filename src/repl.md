@@ -54,4 +54,4 @@ nil
 
 #### doc, source, pst, apropos, find-doc, dir
 
-Usually in CloureScript, `doc` is a macro that you refer. In Replete these are REPL specials which are always available, no matter which namespace you are in.
+Usually in ClojureScript, `doc` is a macro that you refer. In Replete these are REPL specials which are always available, no matter which namespace you are in.
